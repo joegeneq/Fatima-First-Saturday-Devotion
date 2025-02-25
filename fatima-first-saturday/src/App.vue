@@ -172,7 +172,7 @@ const submitForm = async () => {
     alert('An error occurred. Please try again later.');
   }
 };
-/*
+*/
 </script>
 
 <style scoped>
