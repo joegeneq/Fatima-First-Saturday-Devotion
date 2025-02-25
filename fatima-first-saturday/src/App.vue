@@ -79,7 +79,7 @@
 
 <script setup>
 import { ref, reactive, onMounted, computed } from 'vue';
-import { supabase } from './supabaseClient';
+// import { supabase } from './supabaseClient';
 
 const formData = reactive({
   zone: '',
@@ -147,7 +147,7 @@ const updateParishes = () => {
 const addFamilyMember = () => {
   formData.familyMembers.push({ name: '' });
 };
-
+/*
 const submitForm = async () => {
   try {
     const { error } = await supabase
@@ -172,7 +172,7 @@ const submitForm = async () => {
     alert('An error occurred. Please try again later.');
   }
 };
-
+/*
 </script>
 
 <style scoped>
