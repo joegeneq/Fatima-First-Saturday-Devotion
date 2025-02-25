@@ -17,7 +17,7 @@
     </div>
 
     <div class="large-picture">
-      <img src="path/to/fatima_image.jpg" alt="Fatima Image">
+      <img src="https://cmri.org/storage/2020/11/olfatima-bluesky2.jpg" alt="Fatima Image">
     </div>
 
     <div class="main-content">
