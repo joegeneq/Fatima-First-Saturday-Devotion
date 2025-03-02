@@ -9,7 +9,7 @@
         <a href="#">Contact Us</a>
       </nav>
       <div class="consecration-text">
-        <p>Put your family under the special protection of the Blessed Virgin Mary. Register your names.</p>
+        <p>Put your family under the special protection of the Blessed Virgin Mary. Register your names. This is an edit.</p>
         <a href="#">Parish registration forms for download</a>
         <a href="#">For Parish encoding team</a>
         <a href="#">For Parish campaign team</a>
