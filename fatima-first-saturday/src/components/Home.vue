@@ -104,19 +104,16 @@
         </div>
     </footer>
 
-    <script>
-        document.getElementById("menu-toggle").addEventListener("click", function() {
-            var menu = document.getElementById("menu");
-            menu.classList.toggle("hidden");
-        });
-    </script>
 </body>
 </html>
 </template>
 
 
- <script src="https://cdn.tailwindcss.com">
-
+<script src="https://cdn.tailwindcss.com">
+        document.getElementById("menu-toggle").addEventListener("click", function() {
+            var menu = document.getElementById("menu");
+            menu.classList.toggle("hidden");
+        });
 </script>
 
 <style></style>
